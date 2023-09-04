@@ -1,4 +1,4 @@
-# AI for Medical Diagnosis on Coursera
+# AI for Medical Diagnosis on Coursera (copy from )
 
 Master Deep Learning, and Break into AI
 
